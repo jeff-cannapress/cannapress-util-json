@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "CannaPress\\Util\\Json": "src/"
+            "CannaPress\\Util\\Json\\": "src/"
         }
     },
     "authors": [
